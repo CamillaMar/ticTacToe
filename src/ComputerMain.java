@@ -228,7 +228,6 @@ public class ComputerMain {
             return true;
         }
         return false;
-
     }
 
     static boolean makeStrategicMove(String player) {
